@@ -5,12 +5,3 @@ $AThirdVar=3
 #and this
 
 
-asd
-asd
-asd
-asd
-asd
-asd
-asd
-asd
-asd
